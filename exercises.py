@@ -138,7 +138,7 @@ def statement(stmt):
 # Write a function that takes an array of strings and returns a new array with all the 
 # strings sorted alphabetically.
 
-            # revision
+            
 # Write a python function that takes one argument as a list a = [2,4,6,8] and remove the
 #  second last item from that list and returns the whole list without the removed item    
 def remove_item(argslist):
